@@ -44,6 +44,7 @@ body{
     width: 102px;
     min-height: 1024px;
     height: 100vh;
+    z-index: 3;
 }
 
 .nav__img-wrapper{
